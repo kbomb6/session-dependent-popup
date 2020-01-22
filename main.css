@@ -1,0 +1,20 @@
+.popup {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    background: rgb(10, 68, 114);
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 500px;
+    border-radius: 10px;
+    margin: 0 auto;
+    position: relative;
+}
+.closeFormbtn {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1em;
+    color: #FFFFFF;
+}
